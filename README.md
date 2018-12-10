@@ -15,7 +15,7 @@ infeasible. The Countdown Timer utilizes modules that reside within the Python s
 that reflects my current capabilities. 
 
 # How does the Countdown Timer work?
-Used the 'DEF' function to define the countdown. An else statement was then combined with an if statement to allow for user iinput 
+Used the 'DEF' function to define the countdown. An else statement was then combined with an if statement to allow for user input 
 regarding the year, month, day, hour, minute , and second. A second else statement was combined with an if statement to further initate the countdown, allowing the program to provide the user input regarding their chosen time and the status surrounding it. At the end of 
 of each execution of the IF/ELSE statements, a phrase is printed informing the user of the chosen time, if the time has elapsed, or
 if their chosen time is commencing presently. 
